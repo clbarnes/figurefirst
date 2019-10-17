@@ -16,6 +16,7 @@ Contents:
     basic_usage
     examples
     modules
+    tips
     
 
 
